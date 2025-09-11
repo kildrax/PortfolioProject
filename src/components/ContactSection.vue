@@ -38,7 +38,7 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.2)
         <h3 class="text-2xl mb-12 text-center text-white">Get in Touch</h3>
         <div class="grid md:grid-cols-3 gap-6 mb-12">
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:jcbest15@hotmail.com"
             class="flex flex-col items-center p-6 bg-gray-800/50 rounded-xl border border-gray-700 hover:border-gray-600 transition-all duration-300 hover:shadow-lg group text-center"
             ><div
               class="w-16 h-16 bg-gradient-to-r from-orange-400 to-yellow-400 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300"
@@ -61,9 +61,9 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.2)
               </svg>
             </div>
             <p class="text-gray-400 text-sm mb-1">Email</p>
-            <p class="text-white">your.email@example.com</p></a
+            <p class="text-white">jcbest15@hotmail.com</p></a
           ><a
-            href="tel:+57XXXXXXXXX"
+            href="tel:+573108527362"
             class="flex flex-col items-center p-6 bg-gray-800/50 rounded-xl border border-gray-700 hover:border-gray-600 transition-all duration-300 hover:shadow-lg group text-center"
             ><div
               class="w-16 h-16 bg-gradient-to-r from-green-400 to-emerald-400 rounded-xl flex items-center justify-center mb-4 group-hover:scale-110 transition-transform duration-300"
@@ -87,7 +87,7 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.2)
               </svg>
             </div>
             <p class="text-gray-400 text-sm mb-1">Phone</p>
-            <p class="text-white">+57 (XXX) XXX-XXXX</p></a
+            <p class="text-white">+57 (310) 852-7362</p></a
           ><a
             href="https://maps.google.com"
             target="_blank"
@@ -123,7 +123,7 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.2)
           <h4 class="text-lg text-white mb-6">Connect With Me</h4>
           <div class="flex justify-center space-x-6">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/kildrax"
               target="_blank"
               rel="noopener noreferrer"
               class="p-4 bg-gray-800/50 rounded-xl border border-gray-700 hover:border-gray-600 transition-all duration-300 hover:shadow-lg hover:text-white group"
@@ -146,7 +146,7 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.2)
                 ></path>
                 <path d="M9 18c-4.51 2-5-2-7-2"></path></svg></a
             ><a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://www.linkedin.com/in/julian-gallego-pabon-col/"
               target="_blank"
               rel="noopener noreferrer"
               class="p-4 bg-gray-800/50 rounded-xl border border-gray-700 hover:border-gray-600 transition-all duration-300 hover:shadow-lg hover:text-blue-400 group"
@@ -170,7 +170,7 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.2)
                 <rect width="4" height="12" x="2" y="9"></rect>
                 <circle cx="4" cy="4" r="2"></circle></svg></a
             ><a
-              href="https://twitter.com/yourusername"
+              href="https://x.com/kildraxmon"
               target="_blank"
               rel="noopener noreferrer"
               class="p-4 bg-gray-800/50 rounded-xl border border-gray-700 hover:border-gray-600 transition-all duration-300 hover:shadow-lg hover:text-blue-400 group"

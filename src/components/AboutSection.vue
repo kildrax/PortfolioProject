@@ -62,9 +62,9 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
                 <circle cx="9" cy="7" r="4"></circle>
               </svg>
             </div>
-            <h3 class="text-xl mb-4 text-white">Agile Leadership</h3>
+            <h3 class="text-xl mb-4 text-white">Agile Expert</h3>
             <p class="text-gray-400 leading-relaxed">
-              Expert in Scrum, Kanban, and agile methodologies with certified expertise
+              Certified Scrum Master and Scrum Product Owner in 2025
             </p>
           </div>
         </div>
@@ -183,16 +183,17 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
         <div class="max-w-4xl mx-auto text-center">
           <h3 class="text-2xl md:text-3xl mb-6 text-white">My Journey</h3>
           <p class="text-lg text-gray-300 leading-relaxed mb-6">
-            With over 8 years of experience in project management and product ownership, I've led
-            digital transformation initiatives for organizations like UNICEF Chile, Ecuador, and
-            LACRO. My approach combines agile methodologies with technical expertise to deliver
-            solutions that create meaningful impact for users and stakeholders.
+            With over 7+ years of experience in frontend development and 3+ years as Technical
+            Project Manager, Product Owner and Scrum Master, I've led digital transformation
+            initiatives for organizations like UNICEF Chile, Ecuador, and LACRO. My approach
+            combines agile methodologies with technical expertise to deliver solutions that create
+            meaningful impact for users and stakeholders.
           </p>
           <p class="text-lg text-gray-300 leading-relaxed">
-            Beyond professional work, I've demonstrated leadership by creating and leading the first
-            official street dance program at Universidad Piloto de Colombia. I believe in continuous
-            learning, team empowerment, and staying current with industry best practices in agile
-            project management and emerging technologies.
+            Beyond my professional work, I have been developing a personal project for my city: a
+            web platform for the official tennis ranking. It allows players to track their real-time
+            positions on the leaderboard and will also enable users to create official matches and
+            register their results, ensuring the ranking remains continuously updated.
           </p>
         </div>
       </div>

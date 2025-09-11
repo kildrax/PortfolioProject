@@ -231,7 +231,7 @@ const { elRef: sectionRef4, isVisible: sectionVisible4 } = useScrollReveal(0.2)
                 <path d="M21.801 10A10 10 0 1 1 17 3.335"></path>
                 <path d="m9 11 3 3L22 4"></path>
               </svg>
-              <span class="text-gray-300">Architecture &amp; implementation guidance</span>
+              <span class="text-gray-300">Solution design & implementation guidance</span>
             </li>
             <li class="flex items-start">
               <svg
@@ -462,7 +462,7 @@ const { elRef: sectionRef4, isVisible: sectionVisible4 } = useScrollReveal(0.2)
                   <path d="M5 12h14"></path>
                   <path d="m12 5 7 7-7 7"></path>
                 </svg>
-                <span class="text-gray-300">Government Digital Initiatives</span>
+                <span class="text-gray-300">Professional Initiatives</span>
               </li>
               <li class="flex items-center">
                 <svg
@@ -529,7 +529,7 @@ const { elRef: sectionRef4, isVisible: sectionVisible4 } = useScrollReveal(0.2)
                 <div>
                   <h5 class="text-white mb-1">Plan &amp; Structure</h5>
                   <p class="text-gray-400 text-sm">
-                    Create agile frameworks tailored to your organization
+                    Implement agile frameworks like Scrum to your organization
                   </p>
                 </div>
               </div>
@@ -570,7 +570,7 @@ const { elRef: sectionRef4, isVisible: sectionVisible4 } = useScrollReveal(0.2)
           </p>
           <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#contact"
+              href="#Contact"
               class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-black rounded-xl transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-orange-500/25"
               >Get In Touch<svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -588,7 +588,7 @@ const { elRef: sectionRef4, isVisible: sectionVisible4 } = useScrollReveal(0.2)
                 <path d="M5 12h14"></path>
                 <path d="m12 5 7 7-7 7"></path></svg></a
             ><a
-              href="mailto:your.email@example.com"
+              href="mailto:jcbest15@hotmail.com"
               class="inline-flex items-center px-8 py-4 bg-gray-800 hover:bg-gray-700 text-white rounded-xl border border-gray-600 hover:border-gray-500 transition-all duration-300"
               >Send Direct Email</a
             >
