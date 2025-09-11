@@ -1,7 +1,7 @@
 <script setup>
 import { useScrollReveal } from '@/composables/useScrollReveal'
-const { elRef: sectionRef, isVisible: sectionVisible } = useScrollReveal(0.2)
-const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.2)
+const { elRef: sectionRef, isVisible: sectionVisible } = useScrollReveal(0.1)
+const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.1)
 </script>
 <template>
   <section id="Experience" class="py-20 bg-gray-900">

@@ -7,7 +7,10 @@ function scrollToSection(sectionId) {
 }
 </script>
 <template>
-  <section id="Home" class="min-h-screen flex items-center justify-center relative overflow-hidden">
+  <section
+    id="Home"
+    class="min-h-screen flex items-center justify-center relative overflow-hidden mt-20 sm:mt-auto"
+  >
     <div class="absolute inset-0 bg-gradient-to-br from-gray-900 via-gray-800 to-black">
       <div
         class="absolute inset-0 bg-gradient-to-r from-orange-500/10 via-yellow-500/10 to-green-500/10"
@@ -24,25 +27,22 @@ function scrollToSection(sectionId) {
       ></div>
     </div>
     <div class="container mx-auto px-6 text-center relative z-10">
-      <div style="opacity: 1; transform: none">
+      <div>
         <h1 class="text-5xl md:text-7xl mb-6">
           <span
             class="bg-gradient-to-r from-orange-400 via-yellow-400 to-orange-500 bg-clip-text text-transparent"
             >Julian Gallego</span
           >
         </h1>
-        <h2 class="text-2xl md:text-3xl text-gray-300 mb-8" style="opacity: 1; transform: none">
+        <h2 class="text-2xl md:text-3xl text-gray-300 mb-8">
           Technical Project Manager • Product Owner • Scrum Master
         </h2>
-        <p
-          class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-12 leading-relaxed"
-          style="opacity: 1; transform: none"
-        >
+        <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto sm:mb-12 mb-6 leading-relaxed">
           Driving digital transformation with 3+ years of experience in agile project management,
           product ownership for organizations like UNICEF, and 7+ years of technical experience as
           frontend developer. Let's bring your next project to life.
         </p>
-        <div class="flex justify-center space-x-6 mb-12" style="opacity: 1; transform: none">
+        <div class="flex justify-center space-x-6 sm:mb-12 mb-6">
           <a
             href="https://github.com/kildrax"
             class="p-3 rounded-full bg-gray-800/50 border border-gray-700 hover:border-orange-400 hover:bg-orange-400/10 transition-all duration-300 group"
@@ -134,7 +134,7 @@ function scrollToSection(sectionId) {
       </div>
     </div>
     <div
-      class="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-[bounceY_1.5s_ease-in-out_infinite]"
+      class="absolute bottom-8 right-2 sm:left-1/2 sm:right-auto sm:transform sm:-translate-x-1/2 animate-[bounceY_1.5s_ease-in-out_infinite]"
     >
       <div class="w-6 h-10 border-2 border-gray-600 rounded-full flex justify-center">
         <div class="w-1 h-3 bg-gradient-to-b from-orange-400 to-yellow-400 rounded-full mt-2"></div>
