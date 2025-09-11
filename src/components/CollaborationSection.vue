@@ -6,7 +6,7 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
 const { elRef: sectionRef4, isVisible: sectionVisible4 } = useScrollReveal(0.2)
 </script>
 <template>
-  <section id="collaboration" class="py-20 bg-gray-800">
+  <section id="Collaboration" class="py-20 bg-gray-800">
     <div class="container mx-auto px-6">
       <div
         ref="sectionRef"

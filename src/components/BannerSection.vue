@@ -1,6 +1,13 @@
-<script setup></script>
+<script setup>
+function scrollToSection(sectionId) {
+  const el = document.getElementById(sectionId)
+  if (el) {
+    el.scrollIntoView({ behavior: 'smooth' })
+  }
+}
+</script>
 <template>
-  <section id="home" class="min-h-screen flex items-center justify-center relative overflow-hidden">
+  <section id="Home" class="min-h-screen flex items-center justify-center relative overflow-hidden">
     <div class="absolute inset-0 bg-gradient-to-br from-gray-900 via-gray-800 to-black">
       <div
         class="absolute inset-0 bg-gradient-to-r from-orange-500/10 via-yellow-500/10 to-green-500/10"
@@ -21,7 +28,7 @@
         <h1 class="text-5xl md:text-7xl mb-6">
           <span
             class="bg-gradient-to-r from-orange-400 via-yellow-400 to-orange-500 bg-clip-text text-transparent"
-            >Your Name</span
+            >Julian Gallego</span
           >
         </h1>
         <h2 class="text-2xl md:text-3xl text-gray-300 mb-8" style="opacity: 1; transform: none">
@@ -31,15 +38,16 @@
           class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-12 leading-relaxed"
           style="opacity: 1; transform: none"
         >
-          Driving digital transformation with 8+ years of experience in agile project management,
-          product ownership, and technical leadership for organizations like UNICEF. Let's bring
-          your next project to life.
+          Driving digital transformation with 3+ years of experience in agile project management,
+          product ownership for organizations like UNICEF, and 7+ years of technical experience as
+          frontend developer. Let's bring your next project to life.
         </p>
         <div class="flex justify-center space-x-6 mb-12" style="opacity: 1; transform: none">
           <a
-            href="#"
+            href="https://github.com/kildrax"
             class="p-3 rounded-full bg-gray-800/50 border border-gray-700 hover:border-orange-400 hover:bg-orange-400/10 transition-all duration-300 group"
             aria-label="GitHub"
+            target="_blank"
             ><svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -58,7 +66,8 @@
               ></path>
               <path d="M9 18c-4.51 2-5-2-7-2"></path></svg></a
           ><a
-            href="#"
+            href="https://www.linkedin.com/in/julian-gallego-pabon-col/"
+            target="_blank"
             class="p-3 rounded-full bg-gray-800/50 border border-gray-700 hover:border-orange-400 hover:bg-orange-400/10 transition-all duration-300 group"
             aria-label="LinkedIn"
             ><svg
@@ -80,7 +89,7 @@
               <rect width="4" height="12" x="2" y="9"></rect>
               <circle cx="4" cy="4" r="2"></circle></svg></a
           ><a
-            href="#"
+            href="mailto:jcbest15@hotmail.com"
             class="p-3 rounded-full bg-gray-800/50 border border-gray-700 hover:border-orange-400 hover:bg-orange-400/10 transition-all duration-300 group"
             aria-label="Email"
             ><svg
@@ -103,7 +112,7 @@
         </div>
         <button
           class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-black rounded-full transition-all duration-300 transform hover:scale-105 hover:shadow-lg hover:shadow-orange-500/25"
-          style="opacity: 1; transform: none"
+          @click="scrollToSection('Projects')"
         >
           Explore My Work<svg
             xmlns="http://www.w3.org/2000/svg"
@@ -125,8 +134,7 @@
       </div>
     </div>
     <div
-      class="absolute bottom-8 left-1/2 transform -translate-x-1/2"
-      style="transform: translateY(9.93416px)"
+      class="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-[bounceY_1.5s_ease-in-out_infinite]"
     >
       <div class="w-6 h-10 border-2 border-gray-600 rounded-full flex justify-center">
         <div class="w-1 h-3 bg-gradient-to-b from-orange-400 to-yellow-400 rounded-full mt-2"></div>
