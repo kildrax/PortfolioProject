@@ -172,7 +172,7 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
                 </svg>
                 Code</a
               ><a
-                href="#"
+                href="https://kildrax.github.io/TenisZipaRepo/"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="flex items-center px-4 py-2 bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-black rounded-lg transition-all duration-300"
@@ -290,7 +290,7 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
             </div>
             <div class="flex space-x-4">
               <a
-                href="https://cms-migration-tool.herokuapp.com"
+                href="https://juliangallego.atlassian.net/jira/software/projects/TENIS/boards/1/backlog?atlOrigin=eyJpIjoiOGEyNDQwZTJmZmQzNDdlMjlhNmVjNDhmN2RjZjE2YWQiLCJwIjoiaiJ9"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="flex items-center px-4 py-2 bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-black rounded-lg transition-all duration-300"
