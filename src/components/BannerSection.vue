@@ -38,7 +38,7 @@ function scrollToSection(sectionId) {
           Technical Project Manager • Product Owner • Scrum Master
         </h2>
         <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto sm:mb-12 mb-6 leading-relaxed">
-          Driving digital transformation with 3+ years of experience in agile project management,
+          Driving digital transformation with 4+ years of experience in agile project management,
           product ownership for organizations like UNICEF, and 7+ years of technical experience as
           frontend developer. Let's bring your next project to life.
         </p>

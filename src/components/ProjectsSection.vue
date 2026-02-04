@@ -170,7 +170,7 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
                   ></path>
                   <path d="M9 18c-4.51 2-5-2-7-2"></path>
                 </svg>
-                Code</a
+                Code </a
               ><a
                 href="https://kildrax.github.io/TenisZipaRepo/"
                 target="_blank"
@@ -203,7 +203,7 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
         >
           <div class="relative overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1666148670142-2f01b117e6e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzY3J1bSUyMGFnaWxlJTIwd29ya2Zsb3d8ZW58MXx8fHwxNzU3NTI2MzczfDA&ixlib=rb-4.1.0&q=80&w=1080"
+              src="https://skalatelier.com/wp-content/uploads/2026/02/skalBrownies.png"
               alt="Jira Project Management"
               class="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110"
             />
@@ -241,7 +241,7 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
           <div class="p-6">
             <div class="flex items-center justify-between mb-3">
               <h3 class="text-xl text-white group-hover:text-orange-400 transition-colors">
-                Tenis Project Jira Dashboard | Personal Project
+                Skalatelier | E-commerce
               </h3>
               <div class="flex items-center text-gray-400 text-sm">
                 <svg
@@ -266,31 +266,56 @@ const { elRef: sectionRef3, isVisible: sectionVisible3 } = useScrollReveal(0.2)
               </div>
             </div>
             <p class="text-gray-300 mb-4 leading-relaxed">
-              Created a Jira dashboard as a complement to the tennis project, using it together with
-              Confluence as a learning exercise. This demonstrates my ability to manage projects and
-              effectively work with these tools.
+              Collaborated with a professional chef to transform their business into a digital
+              storefront. Using Vue.js and Tailwind CSS, I designed and developed a user-centric
+              shopping experience tailored for business scaling and modern brand identity.
             </p>
             <div class="flex flex-wrap gap-2 mb-6">
               <span
                 class="px-3 py-1 bg-gray-800 text-gray-300 rounded-full text-sm hover:bg-gradient-to-r hover:from-orange-400/20 hover:to-yellow-400/20 hover:text-orange-400 transition-all duration-300"
-                >Jira</span
+                >Vue</span
               ><span
                 class="px-3 py-1 bg-gray-800 text-gray-300 rounded-full text-sm hover:bg-gradient-to-r hover:from-orange-400/20 hover:to-yellow-400/20 hover:text-orange-400 transition-all duration-300"
-                >Project Management</span
+                >JavaScript</span
               ><span
                 class="px-3 py-1 bg-gray-800 text-gray-300 rounded-full text-sm hover:bg-gradient-to-r hover:from-orange-400/20 hover:to-yellow-400/20 hover:text-orange-400 transition-all duration-300"
-                >Scrum</span
+                >Tailwind CSS</span
               ><span
                 class="px-3 py-1 bg-gray-800 text-gray-300 rounded-full text-sm hover:bg-gradient-to-r hover:from-orange-400/20 hover:to-yellow-400/20 hover:text-orange-400 transition-all duration-300"
-                >Confluence</span
+                >Github</span
               ><span
                 class="px-3 py-1 bg-gray-800 text-gray-300 rounded-full text-sm hover:bg-gradient-to-r hover:from-orange-400/20 hover:to-yellow-400/20 hover:text-orange-400 transition-all duration-300"
-                >Agile</span
+                >Windsurf</span
               >
             </div>
             <div class="flex space-x-4">
               <a
-                href="https://juliangallego.atlassian.net/jira/software/projects/TENIS/boards/1/backlog?atlOrigin=eyJpIjoiOGEyNDQwZTJmZmQzNDdlMjlhNmVjNDhmN2RjZjE2YWQiLCJwIjoiaiJ9"
+                href="https://github.com/kildrax/SkalCoommerce"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="flex items-center px-4 py-2 bg-gray-800 hover:bg-gray-700 text-gray-300 rounded-lg transition-colors duration-300"
+                ><svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  class="lucide lucide-github w-4 h-4 mr-2"
+                  aria-hidden="true"
+                >
+                  <path
+                    d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"
+                  ></path>
+                  <path d="M9 18c-4.51 2-5-2-7-2"></path>
+                </svg>
+                Code
+              </a>
+              <a
+                href="https://skalatelier.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="flex items-center px-4 py-2 bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-black rounded-lg transition-all duration-300"

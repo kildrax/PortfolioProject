@@ -373,13 +373,32 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.1)
           </h3>
           <div class="grid gap-6">
             <a
+              href="https://www.scrum.org/certificates/1285209"
+              target="_blank"
+              class="bg-gray-800/50 p-6 rounded-xl border border-gray-700 hover:border-orange-400/50 transition-all duration-300 hover:shadow-lg hover:shadow-orange-400/20 group"
+            >
+              <div class="flex items-start space-x-4">
+                <div class="text-3xl group-hover:scale-110 transition-transform duration-300">
+                  📜
+                </div>
+                <div class="flex-1">
+                  <h4 class="text-lg text-white mb-1">Professional Scrum Master (PSM I)</h4>
+                  <p class="text-gray-400 mb-2">Scrum.org</p>
+                  <span
+                    class="inline-block px-3 py-1 bg-gradient-to-r from-orange-400/20 to-yellow-400/20 text-orange-400 rounded-full text-sm"
+                    >01/2026</span
+                  >
+                </div>
+              </div>
+            </a>
+            <a
               href="https://www.scrumstudy.com/certification/verify?type=SPOC&number=1101153"
               target="_blank"
               class="bg-gray-800/50 p-6 rounded-xl border border-gray-700 hover:border-orange-400/50 transition-all duration-300 hover:shadow-lg hover:shadow-orange-400/20 group"
             >
               <div class="flex items-start space-x-4">
                 <div class="text-3xl group-hover:scale-110 transition-transform duration-300">
-                  🎯
+                  📜
                 </div>
                 <div class="flex-1">
                   <h4 class="text-lg text-white mb-1">Scrum Product Owner Certified (SPOC)</h4>
@@ -398,7 +417,7 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.1)
             >
               <div class="flex items-start space-x-4">
                 <div class="text-3xl group-hover:scale-110 transition-transform duration-300">
-                  🏆
+                  📜
                 </div>
                 <div class="flex-1">
                   <h4 class="text-lg text-white mb-1">Scrum Master Certified (SMC)</h4>
@@ -417,7 +436,7 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.1)
             >
               <div class="flex items-start space-x-4">
                 <div class="text-3xl group-hover:scale-110 transition-transform duration-300">
-                  ⚡
+                  📜
                 </div>
                 <div class="flex-1">
                   <h4 class="text-lg text-white mb-1">Scrum Fundamentals Certified (SFC)</h4>
@@ -434,7 +453,7 @@ const { elRef: sectionRef2, isVisible: sectionVisible2 } = useScrollReveal(0.1)
             >
               <div class="flex items-start space-x-4">
                 <div class="text-3xl group-hover:scale-110 transition-transform duration-300">
-                  📊
+                  📜
                 </div>
                 <div class="flex-1">
                   <h4 class="text-lg text-white mb-1">Diploma in Project Management (PMI/PMP)</h4>
